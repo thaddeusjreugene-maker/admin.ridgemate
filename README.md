@@ -1,0 +1,2 @@
+# admin.ridgemate
+Supports ridgemate
